@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.31b53231.chunk.css",
-    "main.js": "./static/js/main.a6fa7551.chunk.js",
-    "main.js.map": "./static/js/main.a6fa7551.chunk.js.map",
+    "main.css": "./static/css/main.718e60e2.chunk.css",
+    "main.js": "./static/js/main.d8749808.chunk.js",
+    "main.js.map": "./static/js/main.d8749808.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.b550d127.chunk.js": "./static/js/2.b550d127.chunk.js",
     "static/js/2.b550d127.chunk.js.map": "./static/js/2.b550d127.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.31b53231.chunk.css.map": "./static/css/main.31b53231.chunk.css.map",
+    "static/css/main.718e60e2.chunk.css.map": "./static/css/main.718e60e2.chunk.css.map",
     "static/js/2.b550d127.chunk.js.LICENSE.txt": "./static/js/2.b550d127.chunk.js.LICENSE.txt",
     "static/media/Slider.scss": "./static/media/ArrowRight.c0d01b22.svg",
     "static/media/BackButton.scss": "./static/media/ArrowRight_black.134598a3.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.b550d127.chunk.js",
-    "static/css/main.31b53231.chunk.css",
-    "static/js/main.a6fa7551.chunk.js"
+    "static/css/main.718e60e2.chunk.css",
+    "static/js/main.d8749808.chunk.js"
   ]
 }
