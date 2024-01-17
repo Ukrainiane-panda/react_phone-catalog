@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.9b02bc54.chunk.css",
-    "main.js": "./static/js/main.6df9656e.chunk.js",
-    "main.js.map": "./static/js/main.6df9656e.chunk.js.map",
+    "main.css": "./static/css/main.c2db81ff.chunk.css",
+    "main.js": "./static/js/main.9205afe4.chunk.js",
+    "main.js.map": "./static/js/main.9205afe4.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.28fdac0a.chunk.js": "./static/js/2.28fdac0a.chunk.js",
     "static/js/2.28fdac0a.chunk.js.map": "./static/js/2.28fdac0a.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.9b02bc54.chunk.css.map": "./static/css/main.9b02bc54.chunk.css.map",
+    "static/css/main.c2db81ff.chunk.css.map": "./static/css/main.c2db81ff.chunk.css.map",
     "static/js/2.28fdac0a.chunk.js.LICENSE.txt": "./static/js/2.28fdac0a.chunk.js.LICENSE.txt",
     "static/media/Dropdown.scss": "./static/media/ArrowUp.bca5376b.svg",
     "static/media/Slider.scss": "./static/media/ArrowRight.c0d01b22.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.28fdac0a.chunk.js",
-    "static/css/main.9b02bc54.chunk.css",
-    "static/js/main.6df9656e.chunk.js"
+    "static/css/main.c2db81ff.chunk.css",
+    "static/js/main.9205afe4.chunk.js"
   ]
 }
